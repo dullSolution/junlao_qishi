@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 junlao=yellow++;
+  int jianshu =1;
+  junlao = jianshu+jianshu;
